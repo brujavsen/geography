@@ -1,0 +1,123 @@
+{
+    "response_code": 0,
+    "results": [
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "¿Cuál de estos países NO es parte del continente asiático?",
+            "correct_answer": "Surinam",
+            "incorrect_answers": [
+                "Georgia",
+                "Rusia",
+                "Singapur"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "boolean",
+            "difficulty": "easy",
+            "question": "Groenlandia está cubierta de hierba e Islandia cubierta de hielo.",
+            "correct_answer": "Falso",
+            "incorrect_answers": [
+                "Verdadero"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "¿Cuántos estados forman parte de Estados Unidos?",
+            "correct_answer": "50",
+            "incorrect_answers": [
+                "49",
+                "42",
+                "51"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "¿Kuala Lumpur es la capital de qué país?",
+            "correct_answer": "Malasia",
+            "incorrect_answers": [
+                "Indonesia",
+                "Singapur",
+                "Tailandia"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "¿Cuál es el nombre de una de las lenguas neoarameas habladas por la población judía del noroeste de Irak?",
+            "correct_answer": "Lishana Deni",
+            "incorrect_answers": [
+                "Hulaulá",
+                "Lishan Didan",
+                "Chaldean Neo-Aramaic"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "easy",
+            "question": "¿Cuál es el país más pequeño del mundo?",
+            "correct_answer": "Ciudad del Vaticano",
+            "incorrect_answers": [
+                "Andorra",
+                "Haíti",
+                "Paraguay"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "¿Qué país es el más grande del mundo?",
+            "correct_answer": "Rusia",
+            "incorrect_answers": [
+                "Estados Unidos",
+                "Cánada",
+                "China"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "¿Cuál es el río más largo del mundo?",
+            "correct_answer": "Nilo",
+            "incorrect_answers": [
+                "Amazonas",
+                "Yangtze",
+                "Misisipi"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "medium",
+            "question": "¿Cuántos mares existen en la Tierra?",
+            "correct_answer": "60",
+            "incorrect_answers": [
+                "55",
+                "70",
+                "101"
+            ]
+        },
+        {
+            "category": "Geography",
+            "type": "multiple",
+            "difficulty": "hard",
+            "question": "¿Dónde se encuentra el arrecife de coral más grande?",
+            "correct_answer": "Australia",
+            "incorrect_answers": [
+                "Brasil",
+                "Cuba",
+                "Nueva Zelanda"
+            ]
+        }
+    ]
+}
